@@ -23,10 +23,10 @@ My interests sit at the intersection of **action combat, AI behavior, and modula
 frameworks** — the kind of code that powers games like *Elden Ring*, *Sekiro*, and *Devil
 May Cry*. I'm building toward a junior gameplay programming role.
 
-- 🎯 **Currently working on:** a Souls-inspired third-person combat prototype in UE5 (C++ only)
-- 📚 **Currently learning:** advanced animation programming, behavior trees, networked gameplay
-- 🤝 **Open to:** internships and junior gameplay / engine programming positions
-- 🌍 **Based in:** Bulgaria (UTC +2 / +3)
+- **Currently working on:** a Souls-inspired third-person combat prototype in UE5 (C++ only)
+- **Currently learning:** advanced animation programming, behavior trees, networked gameplay
+- **Open to:** internships and junior gameplay / engine programming positions
+- **Based in:** Bulgaria (UTC +2 / +3)
 
 ### What I focus on
 
@@ -68,7 +68,7 @@ May Cry*. I'm building toward a junior gameplay programming role.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗡️ <a href="https://github.com/KevinRusev/MedivalCombatGame">Medieval Combat Game</a></h4>
+      <h4><a href="https://github.com/KevinRusev/MedivalCombatGame">Medieval Combat Game</a></h4>
       <p>
         A Souls-inspired third-person combat prototype built from scratch in Unreal Engine 5
         with <b>C++ only</b> (no Blueprint logic for combat, AI, or core systems).
