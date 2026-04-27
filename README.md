@@ -42,6 +42,13 @@ May Cry*. I'm building toward a junior gameplay programming role.
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat-square)
+![Assembly](https://img.shields.io/badge/-Assembly-525252?logo=gnu&logoColor=white&style=flat-square)
 
 **Engines & frameworks**  
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine_5-313131?logo=unrealengine&style=flat-square)
@@ -49,7 +56,9 @@ May Cry*. I'm building toward a junior gameplay programming role.
 
 **Tools**  
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visualstudio&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Rider](https://img.shields.io/badge/-Rider-000000?logo=rider&logoColor=white&style=flat-square)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat-square)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&style=flat-square)
