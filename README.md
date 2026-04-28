@@ -1,13 +1,19 @@
 <h1 align="center">Hi, I'm Kevin Rusev</h1>
 
 <p align="center">
-  <b>Computer programming student · gameplay programmer in training · Bulgaria</b><br/>
-  Building third-person action games in <b>Unreal Engine 5</b> with <b>C++</b>.
+  <b>Computer programming student · Bulgaria</b><br/>
+  I ship <b>Unreal Engine 5</b> gameplay in <b>C++</b> and production web apps with <b>React</b>, <b>TypeScript</b>, and <b>Firebase</b>.
 </p>
 
 <p align="center">
   <a href="https://github.com/KevinRusev/MedivalCombatGame">
-    <img src="https://img.shields.io/badge/Featured_Project-Medieval_Combat_Game-1f6feb?style=for-the-badge" alt="Medieval Combat Game"/>
+    <img src="https://img.shields.io/badge/Featured-Medieval_Combat_Game_(UE5)-313131?style=for-the-badge&logo=unrealengine" alt="Medieval Combat Game"/>
+  </a>
+  <a href="https://github.com/KevinRusev/nikkchat">
+    <img src="https://img.shields.io/badge/Featured-NikkChat_(case_study)-10b981?style=for-the-badge" alt="NikkChat"/>
+  </a>
+  <a href="https://nikkchat.com">
+    <img src="https://img.shields.io/badge/Live-nikkchat.com-0a66c2?style=for-the-badge" alt="nikkchat.com"/>
   </a>
 </p>
 
@@ -15,26 +21,27 @@
 
 ### About me
 
-I'm a programming student at **Coding Burgas** focused on **gameplay and engine programming**.
-I learn best by shipping — I prefer writing systems in C++ over wiring Blueprints, because
-understanding the engine underneath is what makes me a better game developer.
+I'm a programming student at **Coding Burgas**. I split my time between **gameplay programming**
+in **Unreal Engine 5** and **full-stack web development** — the same mindset in both lanes:
+systems that survive real players and real users, not just demos.
 
-My interests sit at the intersection of **action combat, AI behavior, and modular game
-frameworks** — the kind of code that powers games like *Elden Ring*, *Sekiro*, and *Devil
-May Cry*. I'm building toward a junior gameplay programming role.
+On the **game** side I lean on **C++** for combat, AI, and modular frameworks. On the **web**
+side I build and operate **NikkChat** — a production PWA with realtime messaging, WebRTC calls,
+and client-side encrypted media, backed by Firebase (public GitHub **case study**; **source
+private**).
 
-- **Currently working on:** a Souls-inspired third-person combat prototype in UE5 (C++ only)
-- **Currently learning:** advanced animation programming, behavior trees, networked gameplay
-- **Open to:** internships and junior gameplay / engine programming positions
+- **Currently working on:** UE5 third-person combat prototype (C++) · ongoing NikkChat product work
+- **Currently learning:** animation and AI in UE5 · web security and realtime systems at scale
+- **Open to:** internships and junior roles in **gameplay programming**, **game tools**, or **full-stack / product engineering**
 - **Based in:** Bulgaria (UTC +2 / +3)
 
 ### What I focus on
 
-- **Gameplay code in C++** — character mechanics, combat, ability systems
-- **AI behavior** — controllers, perception, attack pacing, hit reactions
-- **Modular framework design** — components and interfaces that scale across multiple games
-- **Animation programming** — anim notifies, montages, hit reactions, root motion
-- **Clean architecture** — code other developers can read, extend, and ship with
+**Game dev** · C++ gameplay and AI · animation integration · clean engine-facing architecture  
+
+**Web dev** · React + TypeScript · Firebase (Auth, Firestore, RTDB, Storage) · WebRTC · Web Crypto · PWA  
+
+**Both** · shipping, reading codebases, and tradeoffs you can defend in review
 
 ### Tech I work with
 
@@ -50,8 +57,12 @@ May Cry*. I'm building toward a junior gameplay programming role.
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat-square)
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?logo=gnu&logoColor=white&style=flat-square)
 
-**Engines & frameworks**  
+**Engines, frameworks & backend**  
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine_5-313131?logo=unrealengine&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 
 **Tools**  
@@ -61,27 +72,39 @@ May Cry*. I'm building toward a junior gameplay programming role.
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat-square)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&style=flat-square)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
 
-### Featured project
+### Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/KevinRusev/MedivalCombatGame">Medieval Combat Game</a></h4>
       <p>
-        A Souls-inspired third-person combat prototype built from scratch in Unreal Engine 5
-        with <b>C++ only</b> (no Blueprint logic for combat, AI, or core systems).
+        Souls-inspired third-person combat in <b>Unreal Engine 5</b> with <b>C++ only</b> for combat,
+        AI, and core systems (no Blueprint logic in those layers).
       </p>
       <p>
-        <b>Highlights:</b> attack combos with anim-notify trace damage · dodge with i-frames ·
-        modular health and stamina components · enemy AI with chase / strafe / attack pacing,
-        hit reactions, and death animations · pickup and inventory system · three gameplay
-        variants (combat, side-scroller, platformer) sharing one C++ framework.
+        <b>Highlights:</b> combos with anim-notify damage · dodge with i-frames · modular health/stamina ·
+        enemy AI (chase, strafe, attack pacing, hit reactions) · pickups/inventory · multiple gameplay
+        variants sharing one framework.
       </p>
       <p>
-        <code>Unreal Engine 5</code> · <code>C++</code> · <code>AI Controllers</code> ·
-        <code>Anim Notifies</code> · <code>UMG</code>
+        <code>UE5</code> · <code>C++</code> · <code>AI</code> · <code>Anim Notifies</code> · <code>UMG</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/KevinRusev/nikkchat">NikkChat</a> · <a href="https://nikkchat.com">nikkchat.com</a></h4>
+      <p>
+        Production <b>messaging app</b> (PWA): realtime chat, <b>WebRTC</b> voice/video, <b>client-side AES-GCM</b>
+        for media, collections, Firebase backend. Behaves like a serious chat product, not a tutorial.
+      </p>
+      <p>
+        <b>Repo:</b> public <b>case study + docs + brand</b> — full <b>source is private</b>. Live app is at
+        <b>nikkchat.com</b>.
+      </p>
+      <p>
+        <code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Firebase</code> · <code>WebRTC</code> · <code>PWA</code>
       </p>
     </td>
   </tr>
@@ -96,16 +119,15 @@ how those games are built under the hood, from GDC talks to engine source.
 ### Get in touch
 
 <p>
-  <a href="mailto:KRRusev21@codingburgas.bg">
+  <a href="mailto:kevinrusev1@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://github.com/KevinRusev">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
-  <!-- TODO: replace # with your real LinkedIn URL -->
   <a href="https://www.linkedin.com/in/kevin-rusev-17b80817a">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
 
-<p align="center"><sub>Thanks for stopping by — feel free to dive into the pinned project.</sub></p>
+<p align="center"><sub>Thanks for stopping by — check the featured repos and pinned projects.</sub></p>
