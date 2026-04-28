@@ -103,7 +103,7 @@ how those games are built under the hood, from GDC talks to engine source.
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
   <!-- TODO: replace # with your real LinkedIn URL -->
-  <a href="www.linkedin.com/in/kevin-rusev-17b80817a">
+  <a href="https://www.linkedin.com/in/kevin-rusev-17b80817a">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
