@@ -89,7 +89,7 @@ from scratch in **SFML**. Same mindset in both: systems that survive real users 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://skladex.bg">skladex.bg</a> · client e-commerce store</h4>
+      <h4><a href="https://github.com/KevinRusev/skladex-case-study">skladex.bg</a> · <a href="https://skladex.bg">live</a> · client e-commerce store</h4>
       <p>
         Live online store for a warehouse-shelving importer, taking real orders. Custom embedded
         <b>Stripe</b> checkout on PaymentIntents (Payment Element for cards, Express Checkout for
@@ -97,16 +97,22 @@ from scratch in **SFML**. Same mindset in both: systems that survive real users 
         order emails, prerendered product pages for SEO.
       </p>
       <p>
+        <b>Repo:</b> public case study, architecture and payment flow; source is private.
+      </p>
+      <p>
         <code>JavaScript</code> · <code>Firebase</code> · <code>Firestore</code> · <code>Cloud Functions</code> · <code>Stripe</code> · <code>SEO</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://capyfiles.com">Capy Files</a> · own product</h4>
+      <h4><a href="https://github.com/KevinRusev/capyfiles">Capy Files</a> · <a href="https://capyfiles.com">live</a> · own product</h4>
       <p>
         <b>59 tools</b> for PDFs, images, video, audio and AI (compress, convert, edit, sign, redact, OCR,
         background removal, transcription) that run <b>entirely in the browser</b>, so files never leave
         the user's device. AI models run on-device with <b>WebGPU</b>; <b>WebAssembly</b> builds of qpdf,
         MozJPEG and OxiPNG. Offline-capable PWA on <b>Cloudflare Workers</b>, Paddle subscriptions.
+      </p>
+      <p>
+        <b>Repo:</b> public case study, architecture and on-device AI write-up; source is private.
       </p>
       <p>
         <code>React 19</code> · <code>TypeScript</code> · <code>WebAssembly</code> · <code>WebGPU</code> · <code>ONNX Runtime</code> · <code>Cloudflare</code>
@@ -146,7 +152,6 @@ from scratch in **SFML**. Same mindset in both: systems that survive real users 
 </table>
 
 **Also:** [Transform Arena](https://github.com/KevinRusev/TransformArena), a top-down roguelike arena shooter built from scratch in C++17 / SFML (procedural floors, 3 bosses, 8 weapons) ·
-[Eloread](https://github.com/KevinRusev/eloread-releases), a desktop companion app for competitive games (installers public, source private) ·
 [WeatherWise](https://github.com/KevinRusev/weatherwise) and [GradeUp](https://github.com/KevinRusev/gradeup) (Flask)
 
 ### Outside of code
