@@ -28,7 +28,7 @@
 ### About me
 
 I'm a **Creative Media and Game Technologies (Programming)** student at **Breda University of Applied
-Sciences**, and the founder of **[Devinfi](https://devinfi.com)**, a small software company where I build
+Sciences**, and the founder of **[DevInfi](https://devinfi.com)**, a small software company where I build
 client projects and our own products end to end.
 
 On the **web** side I've shipped a live e-commerce store with a custom Stripe checkout, an in-browser
@@ -36,7 +36,7 @@ file toolkit that runs AI models on the user's device, and an end-to-end encrypt
 **game** side I write **C++** for combat, AI and modular gameplay frameworks, in **Unreal Engine 5** and
 from scratch in **SFML**. Same mindset in both: systems that survive real users and real players, not just demos.
 
-- **Currently working on:** Capy Files · client work at Devinfi · NikkChat · UE5 combat prototype
+- **Currently working on:** Capy Files · DevInfi · NikkChat · UE5 combat prototype
 - **Currently studying:** CMGT Programming at BUas (2026 – 2030)
 - **Open to:** freelance projects and part-time remote developer roles (16–24 h/week) · internships in gameplay programming or full-stack engineering
 - **Based in:** Breda, Netherlands (UTC +1 / +2)
@@ -109,7 +109,7 @@ from scratch in **SFML**. Same mindset in both: systems that survive real users 
     <td width="50%" valign="top">
       <h4><a href="https://github.com/KevinRusev/capyfiles">Capy Files</a> · <a href="https://capyfiles.com">live</a> · own product</h4>
       <p>
-        <b>59 tools</b> for PDFs, images, video, audio and AI (compress, convert, edit, sign, redact, OCR,
+        <b>61 tools</b> for PDFs, images, video, audio and AI (compress, convert, edit, sign, redact, OCR,
         background removal, transcription) that run <b>entirely in the browser</b>, so files never leave
         the user's device. AI models run on-device with <b>WebGPU</b>; <b>WebAssembly</b> builds of qpdf,
         MozJPEG and OxiPNG. Offline-capable PWA on <b>Cloudflare Workers</b>, Paddle subscriptions.
@@ -173,7 +173,7 @@ how those games are built under the hood, from GDC talks to engine source.
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://devinfi.com">
-    <img src="https://img.shields.io/badge/-Devinfi-111111?style=for-the-badge" alt="Devinfi"/>
+    <img src="https://img.shields.io/badge/-DevInfi-111111?style=for-the-badge" alt="DevInfi"/>
   </a>
 </p>
 
